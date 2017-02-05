@@ -3,8 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
-
+name: nnjyami
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
@@ -21,12 +20,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: https://nnjyami.github.io
+  instagram:nnjyami
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: nnjyami
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
